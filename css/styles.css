@@ -1,0 +1,12 @@
+.box {
+    background-color: lightgrey;
+    width: 150px;
+    height: 150px;
+}
+
+.center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
